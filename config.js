@@ -45,7 +45,7 @@ window.PORTFOLIO = {
     ],
     "extra": "Este proyecto representa mi forma de trabajar: pensar la experiencia completa, conectar sus sistemas y cuidar tanto el funcionamiento como su identidad. Las capturas y más detalles del desarrollo se podrán añadir aquí.",
     "url": "",
-    "imagen": "assets/infinixmc.png"
+    "imagen": "infinixmc.png"
   },
   {
     "titulo": "Bots que hacen más por tu comunidad",
@@ -82,7 +82,7 @@ window.PORTFOLIO = {
       "Acceso a la comunidad desde la tienda."
     ],
     "url": "https://tienda.infinixmc.com/",
-    "imagen": "assets/tebex-infinixmc.png",
+    "imagen": "tebex-infinixmc.png",
     "extra": "Visita la tienda para conocer los paquetes y su información actualizada."
   },
   {
